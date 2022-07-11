@@ -1,0 +1,25 @@
+{
+  "name": "one-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/In10sive-Technologies/One-Course.git"
+  },
+  "keywords": [
+    "one-course",
+    "expressjs",
+    "nodejs",
+    "e-learning"
+  ],
+  "author": "In10sive-Technologies",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/In10sive-Technologies/One-Course/issues"
+  },
+  "homepage": "https://github.com/In10sive-Technologies/One-Course#readme"
+}
